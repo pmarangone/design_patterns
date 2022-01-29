@@ -1,4 +1,4 @@
-- "The adapter pattern makes two incompatible interfaces compatible without changing their existing code"
+> "The adapter pattern makes two incompatible interfaces compatible without changing their existing code"
 
 ### References
 
